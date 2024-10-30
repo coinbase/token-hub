@@ -15,9 +15,9 @@
 | `imageUrl`         | `string`   | link to token image                              |
 | `websiteUrl`       | `string`   | link to token website                            |
 | `whitePaperUrl`    | `string`   | link to token whitepaper                         |
+| `codebaseUrl`      | `string`   | link to codebase                                 |
 | `socialMediaUrls`  | `[]string` | list of social media URLs                        |
 | `auditUrls`        | `[]string` | list of audit URLs                               |
-| `codebaseUrl`      | `string`   | link to codebase                                 |
 | `migratedToAddress`| `address`  | token has migrated to another contract address   |
 | `version`          | `string`   | token version (e.g., v2 after 1 migration)       |
 | `canonicalAddress` | `address`  | canonical token to get metadata from             |
