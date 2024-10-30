@@ -1,0 +1,9 @@
+secure:
+  codeowners_enabled: true
+  required_reviews: 1 
+  requires_mfa: true
+  branches:
+    - master
+  authorized_bots: []
+  allows_soft_reviews: true
+  auto_assign_reviewers: false

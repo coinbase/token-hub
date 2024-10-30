@@ -1,0 +1,5 @@
+# Documentation on the structure of this file
+# https://confluence.coinbase-corp.com/display/INFRA/Heimdall+CODEOWNERS
+
+#~ {"path": "*", "required_reviews": 1, "teams": {"@wallet/tba-finance-pod": {"required_reviews": 1}}}
+* @wallet/tba-finance-pod
