@@ -20,5 +20,6 @@
 | `auditUrls`        | `[]string` | list of audit URLs                               |
 | `migratedToAddress`| `address`  | token has migrated to another contract address   |
 | `version`          | `string`   | token version (e.g., v2 after 1 migration)       |
+| `email`            | `string`   | email for contact                                |
 | `canonicalAddress` | `address`  | canonical token to get metadata from             |
 | `canonicalChainId` | `uint256`  | chain ID of the canonical token                  |
