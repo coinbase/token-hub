@@ -5,6 +5,9 @@
 
 ## Schema 
 
+**ID: [0x1134b93c315c222968305b0467339b4fe8fc42c4646c4d4fce5d89e506c5aa6c](https://base.easscan.org/schema/view/0x1134b93c315c222968305b0467339b4fe8fc42c4646c4d4fce5d89e506c5aa6c)**
+
+
 | Variable           | Type       | Description                                      |
 |--------------------|------------|--------------------------------------------------|
 | `chainId`          | `uint256`  | token chain ID                                   |
